@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WTQuakePath", "WTQuakePath.csproj", "{C3217735-A503-406F-9534-1FD3783EFAD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3217735-A503-406F-9534-1FD3783EFAD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3217735-A503-406F-9534-1FD3783EFAD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3217735-A503-406F-9534-1FD3783EFAD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3217735-A503-406F-9534-1FD3783EFAD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
