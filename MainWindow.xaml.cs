@@ -85,7 +85,7 @@ namespace WTQuakePath
             {
                 CreateNoWindow = true,
                 FileName = "wt.exe",
-                Arguments = "-w _quake -d " + path
+                Arguments = $@"-w _quake -d ""{path}"""
             };
 
             var process = new Process()
